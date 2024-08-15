@@ -34,8 +34,13 @@ You'll need the following scopes:
 After building the project, you can use the binary to download captions:
 
 ```
-./yt-captions <VIDEO_URL> --lang <LANGUAGE_CODE>
+./yt-captions <VIDEO_URL> ... --lang <LANGUAGE_CODE>
 ```
+
+```
+./yt-captions <PLAYLIST_URL> ... --lang <LANGUAGE_CODE>
+```
+
 
 Here is an example:
 ```
